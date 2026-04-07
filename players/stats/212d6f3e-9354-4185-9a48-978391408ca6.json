@@ -1,0 +1,53 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:grass_block": 27,
+      "minecraft:mooshroom_spawn_egg": 419,
+      "minecraft:iron_chain": 2,
+      "minecraft:netherite_sword": 2,
+      "minecraft:copper_door": 1,
+      "minecraft:gravel": 1,
+      "minecraft:copper_grate": 4,
+      "minecraft:copper_block": 1,
+      "minecraft:copper_chain": 1,
+      "minecraft:iron_bars": 1,
+      "minecraft:bone_meal": 1,
+      "minecraft:glass": 1,
+      "minecraft:squid_spawn_egg": 361,
+      "minecraft:copper_bars": 1,
+      "minecraft:splash_potion": 1,
+      "minecraft:brush": 8,
+      "minecraft:vex_spawn_egg": 177,
+      "minecraft:iron_boots": 2,
+      "minecraft:fishing_rod": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 6183,
+      "minecraft:walk_one_cm": 116286,
+      "minecraft:leave_game": 6,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 320,
+      "minecraft:damage_dealt": 198,
+      "minecraft:play_time": 89802,
+      "minecraft:jump": 108,
+      "minecraft:time_since_death": 6150,
+      "minecraft:drop": 6,
+      "minecraft:sprint_one_cm": 8350,
+      "minecraft:total_world_time": 397176,
+      "minecraft:fly_one_cm": 156902,
+      "minecraft:crouch_one_cm": 2954,
+      "minecraft:sneak_time": 1666,
+      "minecraft:deaths": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:paper": 5
+    },
+    "minecraft:dropped": {
+      "minecraft:paper": 6
+    },
+    "minecraft:killed": {
+      "minecraft:husk": 1
+    }
+  },
+  "DataVersion": 4788
+}
