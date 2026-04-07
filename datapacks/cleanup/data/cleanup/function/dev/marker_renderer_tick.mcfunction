@@ -1,1 +1,1 @@
-execute at @e[type=marker] run particle happy_villager ~ ~0.5 ~
+execute at @e[type=marker] run particle crit ~ ~0.5 ~

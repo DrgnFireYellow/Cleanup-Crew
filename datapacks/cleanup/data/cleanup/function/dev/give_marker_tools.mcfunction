@@ -1,3 +1,4 @@
-give @s vex_spawn_egg[item_name="Marker Removal Tool",entity_data={id:"marker",Tags:["marker_removal_tool"]}]
-give @s mooshroom_spawn_egg[item_name="Place Soda Can",entity_data={id:"marker",Tags:["trash_spawner_soda_can"]}]
-give @s squid_spawn_egg[item_name="Place Water Bottle",entity_data={id:"marker",Tags:["trash_spawner_water_bottle"]}]
+give @s vex_spawn_egg[item_name="Marker Removal Tool",item_model="minecraft:barrier",entity_data={id:"marker",Tags:["marker_removal_tool"]}]
+give @s mooshroom_spawn_egg[item_name="Place Soda Can",item_model="cleanup:soda_can",entity_data={id:"marker",Tags:["trash_spawner_soda_can"]}]
+give @s squid_spawn_egg[item_name="Place Water Bottle",item_model="cleanup:water_bottle",entity_data={id:"marker",Tags:["trash_spawner_water_bottle"]}]
+give @s ghast_spawn_egg[item_name="Place Plastic Bag",item_model="cleanup:plastic_bag",entity_data={id:"marker",Tags:["trash_spawner_plastic_bag"]}]

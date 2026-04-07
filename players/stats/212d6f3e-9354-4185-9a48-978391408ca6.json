@@ -1,52 +1,60 @@
 {
   "stats": {
+    "minecraft:dropped": {
+      "minecraft:paper": 8
+    },
     "minecraft:used": {
-      "minecraft:grass_block": 27,
-      "minecraft:mooshroom_spawn_egg": 419,
+      "minecraft:grass_block": 52,
+      "minecraft:mooshroom_spawn_egg": 434,
+      "minecraft:smooth_stone": 11,
+      "minecraft:lava_bucket": 1,
       "minecraft:iron_chain": 2,
+      "minecraft:lever": 3,
       "minecraft:netherite_sword": 2,
       "minecraft:copper_door": 1,
+      "minecraft:ghast_spawn_egg": 20,
       "minecraft:gravel": 1,
       "minecraft:copper_grate": 4,
       "minecraft:copper_block": 1,
       "minecraft:copper_chain": 1,
       "minecraft:iron_bars": 1,
+      "minecraft:repeating_command_block": 1,
       "minecraft:bone_meal": 1,
       "minecraft:glass": 1,
-      "minecraft:squid_spawn_egg": 361,
+      "minecraft:squid_spawn_egg": 375,
       "minecraft:copper_bars": 1,
       "minecraft:splash_potion": 1,
       "minecraft:brush": 8,
-      "minecraft:vex_spawn_egg": 177,
+      "minecraft:vex_spawn_egg": 249,
       "minecraft:iron_boots": 2,
       "minecraft:fishing_rod": 1
     },
+    "minecraft:picked_up": {
+      "minecraft:feather": 1,
+      "minecraft:chicken": 1,
+      "minecraft:paper": 7
+    },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 6183,
-      "minecraft:walk_one_cm": 116286,
-      "minecraft:leave_game": 6,
-      "minecraft:mob_kills": 1,
+      "minecraft:time_since_rest": 94988,
+      "minecraft:walk_one_cm": 209433,
+      "minecraft:leave_game": 10,
+      "minecraft:mob_kills": 2,
       "minecraft:damage_taken": 320,
-      "minecraft:damage_dealt": 198,
-      "minecraft:play_time": 89802,
-      "minecraft:jump": 108,
-      "minecraft:time_since_death": 6150,
-      "minecraft:drop": 6,
-      "minecraft:sprint_one_cm": 8350,
-      "minecraft:total_world_time": 397176,
-      "minecraft:fly_one_cm": 156902,
-      "minecraft:crouch_one_cm": 2954,
-      "minecraft:sneak_time": 1666,
+      "minecraft:damage_dealt": 298,
+      "minecraft:play_time": 178607,
+      "minecraft:jump": 207,
+      "minecraft:time_since_death": 94955,
+      "minecraft:drop": 8,
+      "minecraft:sprint_one_cm": 15726,
+      "minecraft:total_world_time": 544700,
+      "minecraft:fly_one_cm": 456929,
+      "minecraft:crouch_one_cm": 5102,
+      "minecraft:sneak_time": 3276,
       "minecraft:deaths": 1
     },
-    "minecraft:picked_up": {
-      "minecraft:paper": 5
-    },
-    "minecraft:dropped": {
-      "minecraft:paper": 6
-    },
     "minecraft:killed": {
-      "minecraft:husk": 1
+      "minecraft:husk": 1,
+      "minecraft:chicken": 1
     }
   },
   "DataVersion": 4788
