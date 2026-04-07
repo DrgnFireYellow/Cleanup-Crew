@@ -1,0 +1,2 @@
+$summon item_display ~ ~ ~ {item:{id:"paper",components:{item_model:"cleanup:$(type)"}},transformation:{translation:[0f,0.5f,0f],left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],scale:[1f,1f,1f]},Tags:[trash_renderer,trash]}
+summon interaction ~ ~ ~ {Tags:[trash_interaction,trash]}

@@ -1,0 +1,1 @@
+execute as @e[type=marker,tag=marker_removal_tool] at @s run kill @e[type=marker,distance=0..0.1]
