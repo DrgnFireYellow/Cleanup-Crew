@@ -3,4 +3,6 @@ execute as @e[type=marker, tag=trash_spawner_soda_can] at @s run function cleanu
 execute as @e[type=marker, tag=trash_spawner_water_bottle] at @s run function cleanup:create_trash {type:"water_bottle"}
 execute as @e[type=marker, tag=trash_spawner_plastic_bag] at @s run function cleanup:create_trash {type:"plastic_bag"}
 
+clear @a
+scoreboard players reset * trash_collected
 scoreboard players set @a trash_collected 0
