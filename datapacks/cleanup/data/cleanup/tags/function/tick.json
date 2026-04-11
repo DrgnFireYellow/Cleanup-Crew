@@ -1,5 +1,6 @@
 {
     "values": [
-        "cleanup:trash_interaction_tick"
+        "cleanup:trash_interaction_tick",
+        "cleanup:game_tick"
     ]
 }
