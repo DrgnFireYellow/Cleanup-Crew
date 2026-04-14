@@ -9,4 +9,4 @@ clear @a[gamemode=adventure]
 scoreboard players reset * trash_collected
 scoreboard players set @a trash_collected 0
 
-function cleanup:reset_game
+schedule function cleanup:reset_trash 2s
