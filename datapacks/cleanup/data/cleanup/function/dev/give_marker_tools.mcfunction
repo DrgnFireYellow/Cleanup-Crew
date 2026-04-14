@@ -2,3 +2,5 @@ give @s vex_spawn_egg[item_name="Marker Removal Tool",item_model="minecraft:barr
 give @s mooshroom_spawn_egg[item_name="Place Soda Can",item_model="cleanup:soda_can",entity_data={id:"marker",Tags:["trash_spawner_soda_can"]}]
 give @s squid_spawn_egg[item_name="Place Water Bottle",item_model="cleanup:water_bottle",entity_data={id:"marker",Tags:["trash_spawner_water_bottle"]}]
 give @s ghast_spawn_egg[item_name="Place Plastic Bag",item_model="cleanup:plastic_bag",entity_data={id:"marker",Tags:["trash_spawner_plastic_bag"]}]
+give @s cow_spawn_egg[item_name="Place Chip Bag",item_model="cleanup:chip_bag",entity_data={id:"marker",Tags:["trash_spawner_chip_bag"]}]
+give @s chicken_spawn_egg[item_name="Place Balloon",item_model="cleanup:balloon",entity_data={id:"marker",Tags:["trash_spawner_balloon"]}]
