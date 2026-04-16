@@ -8,5 +8,6 @@ schedule function cleanup:timer/start_cleanup_timer 3s
 clear @a[gamemode=adventure]
 scoreboard players reset * trash_collected
 scoreboard players set @a trash_collected 0
+scoreboard objectives setdisplay sidebar trash_collected
 
 schedule function cleanup:reset_trash 2s
