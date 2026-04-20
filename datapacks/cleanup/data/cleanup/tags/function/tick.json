@@ -1,6 +1,7 @@
 {
-    "values": [
-        "cleanup:trash_interaction_tick",
-        "cleanup:game_tick"
-    ]
+  "values": [
+    "cleanup:trash_interaction_tick",
+    "cleanup:game_tick",
+    "cleanup:reset_command_tick"
+  ]
 }

@@ -1,4 +1,5 @@
+execute as @a[gamemode=adventure] run title @s subtitle ["You picked up ", {score: {name: "@s", objective: "trash_collected"}}, " pieces of trash."]
+title @a[gamemode=adventure] title "Great work!"
 stopsound @a
-teleport @a[gamemode=adventure] -116 -60 -722 0 0
-clear @a[gamemode=adventure]
-scoreboard objectives setdisplay sidebar
+execute if score auto_reset game_data matches 0 run function cleanup:back_to_hub
+execute if score auto_reset game_data matches 1 run function cleanup:reset
