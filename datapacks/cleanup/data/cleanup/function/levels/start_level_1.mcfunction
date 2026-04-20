@@ -11,3 +11,5 @@ scoreboard players set @a trash_collected 0
 scoreboard objectives setdisplay sidebar trash_collected
 
 schedule function cleanup:reset_trash 2s
+
+execute as @a at @s run playsound music_disc.tears master @s ~ ~ ~ 100 1 1
